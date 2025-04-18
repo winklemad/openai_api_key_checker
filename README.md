@@ -53,7 +53,7 @@ openai api keys.txt
 2. Run the script:
 
 ```bash
-python check_openai_keys.py
+python keys.py
 ```
 
 3. All valid keys with positive credit will be saved to:
