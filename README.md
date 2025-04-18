@@ -74,7 +74,7 @@ valid_keys.txt
 
 ## 📄 License
 
-MIT License. See [LICENSE](./LICENSE) for details.
+Apache-2.0 License. See [LICENSE](./LICENSE) for details.
 
 ---
 
